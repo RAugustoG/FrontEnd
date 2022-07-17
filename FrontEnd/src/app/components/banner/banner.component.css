@@ -1,0 +1,14 @@
+.contenedor{
+  position: relative;
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.4em;
+  border: 0.1em solid gold;
+  }
+
+  .img-responsive{
+      border-radius: 1em;
+
+  }

@@ -1,0 +1,19 @@
+.contenedor{
+  border: 0.1em solid gold;
+ border-radius: 0.4em;
+ background: black;
+ color: white;
+}
+
+.row{
+  margin: 0.2em;
+}
+
+h1,h6{
+  display: inline;
+}
+
+button{
+  float: right;
+  border: 0.1em solid gold
+}

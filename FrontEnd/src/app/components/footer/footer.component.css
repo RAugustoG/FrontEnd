@@ -1,0 +1,14 @@
+.contenedor{
+  border: 0.1em solid gold;
+  border-radius: 0.4em;
+  color:gold;
+  background-color: black ;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.row{
+  margin: 0.2em;
+}

@@ -1,0 +1,24 @@
+.contenedor{
+  border: 0.1em solid gold;
+ border-radius: 0.4em;
+ background: black;
+ color: white;
+}
+.row{
+  margin: 0.2em;
+}
+
+#logoedu{
+  width: 47px;
+  height: 30px;
+  background-size: 100% auto;
+  object-fit: cover;
+  border: 0.1em solid gold;
+}
+
+button{
+  float: right;
+  border: 0.1em solid gold
+      }
+
+
