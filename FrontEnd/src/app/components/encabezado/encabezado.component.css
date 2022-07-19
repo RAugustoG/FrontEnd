@@ -3,6 +3,7 @@
   border-radius: 0.4em;
   border: 0.1em solid gold;
 }
+
 @media (min-width: 575px){
   #logoAP{
       width: 10em;
